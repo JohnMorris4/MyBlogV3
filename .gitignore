@@ -23,7 +23,8 @@ test-results/
 
 # Icon must end with two \r
 Icon
-
+appsettings.json
+appsettings.Development.json
 
 # Thumbnails
 ._*
